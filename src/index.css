@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "BerkeleyMono";
+  src: url(./assets/BerkeleyMonoVariable-Regular.ttf);
+}
+
+html {
+  font-family: "BerkeleyMono";
+}
